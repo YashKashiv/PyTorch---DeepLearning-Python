@@ -1,0 +1,5 @@
+To install PyTorch library use below terminal code:
+-->pip3 install torch torchvision torchaudio
+
+In Deep Neural Network , Machine needs to do big and heavy calculations run millions of operations divide them between the neurons to train numerically converted data of images, videos and audios which is exactly why we use GPU for the calculations because it is 10 times better and efficient than CPU but the numpy which we use to handle the calculations of numerical data uses only cpy and thatswhy we will use PyTorch for our huge models to work efficiently and on GPU basically.
+
